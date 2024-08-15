@@ -1,6 +1,6 @@
 .env
 django_wellness/recipe_app/migrations/__pycache__
-.venv/
+.fswellness/ 
 # Created by https://www.gitignore.io
 ### OSX ###
 .DS_Store
